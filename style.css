@@ -1,0 +1,221 @@
+body{
+    text-shadow: 0 0 4px #fff,  
+    0 0 10px #fff,  
+    0 0 15px #fff,
+    0 0 20px rgb(87, 172, 221),
+    0 0 25px rgb(86, 175, 216), 
+    0 0 30px rgba(89, 178, 201, 0.959),
+    0 0 40px rgba(135, 213, 233, 0.644), 
+    0 0 50px rgba(32, 148, 202, 0.726); 
+    
+    background:   linear-gradient(to right top, rgb(218, 216, 216),rgb(0, 102, 128));
+}
+    
+
+header{
+    /*background: #2f919e;*/
+    padding: 20px 20px 0 0;
+    
+}
+
+.caja{
+    width: auto;
+    position: relative;
+    margin: 0 auto;
+    padding: 0 0 0 15px;
+
+}
+
+.titulo-principal{
+    position: absolute;
+    top: 60px;
+    right: 610px; 
+    font-size: 300%;
+    
+}
+
+.tabla1{
+
+    border: solid 2px #7bfbff;
+    margin: 0 auto;
+    
+}
+
+thead{
+    background: #3dbecf;
+    border: solid 1px  #7bfbff;
+}
+
+th{
+    border:  1px #7bfbff;
+    padding: 10px 10px 10px 10px;
+    
+}
+
+.input-group-input-group-sm-mb-3{
+    margin-right: 539px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.input-group-input-group-sm-mb-4{
+    margin-right: 539px;
+    padding-top: 1px;
+    font-family: Arial, Helvetica, sans-serif;
+   
+
+}
+.input-group{
+    margin-right: 285px;
+    padding-top: 1px;
+}
+
+.input-group-input-group-sm-mb-10{
+    margin-right: 530px;
+    font-family: Arial, Helvetica, sans-serif;
+   
+}
+.input-group-input-group-sm-mb-10DNI{
+    margin-right: 565px;
+
+}
+
+/* segundo cuerpo de la tabla*/
+
+.cuerpodetabla{
+   
+    background: #3dbecf;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #7bfbff;
+    padding: 10px 10px 10px 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.tabla2{
+    border-style: solid;
+    border-width: 2px;
+    border-color: #7bfbff;
+    margin: 5px auto;
+
+}
+
+.input-group{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.Uinput-group-inpt-group-sm-mb-4{
+    margin-right: 532px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.Input-group-input-group-sm-mb-4{
+    margin-right: 532px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.Input-group-input-group-sm-mb-10DNI{
+    margin-right: 570px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.input-group-input-group-sm-mb-legajo{
+    margin-right: 548px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.tabla{
+    border-style: solid;
+    border-width: 0.5px;
+    border-color: #7bfbff;
+    margin: 0 auto;
+    padding: 10px 10px 10px 10px;
+
+/*Tercer cuerpo de la tabla*/
+}
+.input-group-input-group-sm-mb-nombredecontacto{
+    margin-right: 453px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.input-group-input-group-sm-mb-parentesco{
+    margin-right: 515px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+/*cuarto cuerpo de tabla*/
+
+.tabla4{
+    
+    border-style: solid;
+    border-width: 2px;
+    border-color: #7bfbff;
+    margin: 6px auto;
+    padding: 10px 10px 10px 10px;
+    font-family: Arial, Helvetica, sans-serif;
+       
+}
+.input-group-mb-3{
+    font-family: Arial, Helvetica, sans-serif;
+    /*font-weight: bold;*/
+    text-align: center;
+    
+}
+.input-group-text{
+    font-size: large;
+}
+.desdeestablecimiento{
+    margin-right: 415px;
+    font-family: Arial, Helvetica, sans-serif;
+
+
+}
+
+strong{
+    font-weight: bold;
+}
+.calle-entrecalle{
+    margin-right: 400px;
+    
+}
+
+.hora{
+    margin-right: 575px;
+    font-family: Arial, Helvetica, sans-serif; 
+}
+.localidad{
+    margin-right: 531px;
+    font-family: Arial, Helvetica, sans-serif; 
+}
+
+.form-floating{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    font-weight: bold;
+}
+
+/* centralizar ambos input type="checkbox*/
+
+p.texto{
+    margin: 25px 0 0 420px;
+}
+
+.saldo{
+    border-style: solid;
+    border-width: 2px;
+    border-color: #7bfbff;
+    margin:0 0 0 1000px;
+    padding: 10px 10px 10px 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.div_input{
+    display: grid;
+    width: 15%;
+    height: 50%;
+    padding: 10px 10px 10px 10px;
+    margin: auto;
+    margin-top: 2%;
+    border-radius: 16px;
+}
